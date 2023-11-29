@@ -1,11 +1,3 @@
----
-title: 44158 Docker
-emoji: ⚡
-colorFrom: gray
-colorTo: red
-sdk: docker
-pinned: false
-license: mit
----
+# 44158 Docker
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Project 44158 using FastAPI deploying on Hugging Face Space SDK Docker.
